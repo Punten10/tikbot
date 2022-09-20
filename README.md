@@ -1,4 +1,4 @@
-# TikZef - Automation
+# SurrealFlux - TIKBOT
 Automation does not require Selenium or any other browser to be interface with Zefoy Web, it does so directly using a Request API. Not running Selenium or Chromimum saves you ram :D
 
 ## Feature
