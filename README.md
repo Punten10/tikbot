@@ -38,8 +38,5 @@ Start the server
 
 ## Screenshots
 
-##### Running Bot
-![image](https://i.ibb.co/1RNC9Jn/tikzef.png)
-
 ##### Result 
 ![image](https://i.ibb.co/5sL9NfV/proof.png)
