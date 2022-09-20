@@ -14,13 +14,13 @@ Automation does not require Selenium or any other browser to be interface with Z
 Clone the project
 
 ```bash
-  git clone https://github.com/instinctrepo/TikZef-Automation
+  git clone https://github.com/Punten10/tikbot
 ```
 
 Go to the project directory
 
 ```bash
-  cd TikZef-Automation
+  cd tikbot
 ```
 
 Install dependencies
@@ -32,7 +32,7 @@ Install dependencies
 Start the server
 
 ```bash
-  python3 main.py
+  python main.py
 ```
 
 
